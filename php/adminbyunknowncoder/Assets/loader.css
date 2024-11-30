@@ -1,0 +1,8 @@
+#preloader{
+background: #fff url(Https://Onxcamp.xyz/Aff/Admin/Assets/loading.gif) no-repeat center center;
+background-size: 90%;
+height: 100vh;
+width: 100%;
+position: fixed;
+z-index: 100;
+}
